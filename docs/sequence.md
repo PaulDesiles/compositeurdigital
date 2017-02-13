@@ -18,4 +18,4 @@ Exemple d'arborescence :
 
 ![explorer sequence](img/explorer_sequence.jpg)
 
-[Revenir au différents Types de contenus](content_types.html)
+[Revenir au différents Types de contenus](content_types.md)

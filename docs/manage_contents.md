@@ -67,7 +67,7 @@ par un [diaporama interactif](slideshow#interactive) par exemple.
 
 Ajoutez vos documents dans les dossiers de votre univers.
 
-Consultez la rubrique [Types de contenus](content_types.html) pour la liste complète des formats supportés.
+Consultez la rubrique [Types de contenus](content_types.md) pour la liste complète des formats supportés.
 
 ## Ordre d'affichage
 
@@ -97,7 +97,7 @@ Pour personnaliser la vignette d'un document, placez un fichier image avec le m�
 
 ![explorer preview file](img/explorer_preview_file.jpg)
 
-Rendez-vous à la rubrique [Types de contenus](content_types.html) pour connaître les spécificités des différents contenus pris en charge.
+Rendez-vous à la rubrique [Types de contenus](content_types.md) pour connaître les spécificités des différents contenus pris en charge.
 
 ## Ecran de veille vidéo 
 
@@ -107,4 +107,4 @@ Ajoutez un fichier vidéo nommé `_standby` dans le dossier de l'univers :
 
 ![standby](img/explorer_standby.jpg) 
 
-Rendez-vous à la rubrique [types de contenus vidéo](video.html) pour connaître les différents types de vidéos que vous pouvez utiliser pour l'écran de veille.
+Rendez-vous à la rubrique [types de contenus vidéo](video.md) pour connaître les différents types de vidéos que vous pouvez utiliser pour l'écran de veille.

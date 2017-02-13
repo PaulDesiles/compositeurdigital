@@ -34,10 +34,10 @@ Pour créer un point d'intérêt :
 
 - Créez un sous-dossier calque (extension layer) qui contiendra un ou plusieurs points d'intérêt.
 - Ajoutez le contenu que vous souhaitez associer au point d'intérêt dans le sous-dossier (une image, un diaporama, etc.)
-- Utilisez l'outil [Compositeur Digital Editor](editor.html) pour positionner visuellement le point d'intérêt sur le fond de carte.
+- Utilisez l'outil [Compositeur Digital Editor](editor.md) pour positionner visuellement le point d'intérêt sur le fond de carte.
 
 Exemple d'arborescence :
 
 ![explorer sequence](img/explorer_map_l2.jpg)
 
-[Revenir au différents Types de contenus](content_types.html)
+[Revenir au différents Types de contenus](content_types.md)

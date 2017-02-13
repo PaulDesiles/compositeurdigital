@@ -13,6 +13,6 @@ Vous pouvez :
 
 - Extension de fichier : `jpg`, `png`, `tif`.
 
-*Remarque : vous pouvez visualiser un dossier d'images sous la forme d'un diaporama. Voir rubrique [Diaporama](slideshow.html)*
+*Remarque : vous pouvez visualiser un dossier d'images sous la forme d'un diaporama. Voir rubrique [Diaporama](slideshow.md)*
 
-[Revenir au différents Types de contenus](content_types.html)
+[Revenir au différents Types de contenus](content_types.md)

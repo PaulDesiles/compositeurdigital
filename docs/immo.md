@@ -42,4 +42,4 @@ Voici le tableau qui permet d'obtenir l'aperçu précédent :
 - `single` : autre critère de filtre, une seule valeur sélectionnée à la fois.
 
 
-[Revenir au différents Types de contenus](content_types.html)
+[Revenir au différents Types de contenus](content_types.md)

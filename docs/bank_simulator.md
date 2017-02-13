@@ -15,4 +15,4 @@ Vous pouvez modifier :
 
 - Extension de dossier : `simupret`.
 
-[Revenir au différents Types de contenus](content_types.html)
+[Revenir au différents Types de contenus](content_types.md)

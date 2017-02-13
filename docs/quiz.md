@@ -283,4 +283,4 @@ Lorsque vous modifiez le fichier `_questions.xml` et si les questions/titres de 
 Une nouvelle ligne de résultat est enregistrée à chaque fois que l'on atteint une page de fin du quiz.
 
 
-[Revenir au différents Types de contenus](content_types.html)
+[Revenir au différents Types de contenus](content_types.md)

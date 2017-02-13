@@ -70,7 +70,7 @@
 ### 2.7
 - Support stylet : gestion de la pression, multi-stylets, lissage vectoriel.
 - Annotation : épaisseur relative au niveau de zoom, accès rapide au menu en cours d'annotation.
-- Nouveau type de contenu : [formulaire personnalisé](form.html) (ex : prise de contact).
+- Nouveau type de contenu : [formulaire personnalisé](form.md) (ex : prise de contact).
 - Zoom tactile sur les dossiers, simulateur financier et outil de recherche immobilier.
 - Powerpoint interactif : support des liens internes entre slides (navigation personnalisée).
 - Mode kiosk : possibilité de désactiver les actions duplication/annotation/arrière-plan.
@@ -86,7 +86,7 @@
 
 ### 2.6.2
 - [BETA] Support stylet
-- Nouveau format : [visite virtuelle 3D](panorama.html)
+- Nouveau format : [visite virtuelle 3D](panorama.md)
 - Envoi d'un contenu en arrière plan
 - Amélioration de la navigation dans les objets 3D, support du format STL
 - Possibilité d’ouvrir un fichier PDF 3D à l’aide d’un lecteur externe

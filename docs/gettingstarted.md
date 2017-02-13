@@ -22,4 +22,4 @@ Lorsque l'installation est finie, le Compositeur Digital se lance automatiquemen
 1. Le Compositeur Digital vous invite à télécharger des contenus de démonstration. Cliquez sur `télécharger`.
 2. Choisissez parmi les 3 univers de démonstration proposés.
 
-Vous pouvez maintenant consulter la rubrique [Utilisation](use.html).
+Vous pouvez maintenant consulter la rubrique [Utilisation](use.md).

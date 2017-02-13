@@ -94,4 +94,4 @@ Ainsi le champ `adresse email` sera utilisé comme destinataire dès que vous vo
 Le dernier onglet du menu permet d'accéder à des informations générales sur le logiciel. Vous pourrez également accéder à cette documentation ou nous donner votre avis sur le compositeur digital.
 Appuyez sur le bouton `support` pour envoyer un mail au support technique d'excense : si vous rencontrez une anomalie ou un problème dans votre utilisation du logiciel, décrivez nous la situation dans ce mail.
 
-Vous pouvez maintenant consulter la rubrique sur la [gestion des contenus](manage_contents.html).
+Vous pouvez maintenant consulter la rubrique sur la [gestion des contenus](manage_contents.md).

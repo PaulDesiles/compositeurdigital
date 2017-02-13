@@ -18,6 +18,6 @@ Vous pouvez :
 - Extension de dossier : `panorama`
 - Extension de fichier dans le dossier : `jpg`, `png`
 - Une seule image est supportée à l'intérieur du dossier. Elle doit être issue d'une projection sphérique de la scène. 
-- L'angle de vue par défaut est de 110. Pour le modifier vous devez renseigner la valeur de la meta "panorama.FieldOfView" : le fonctionnement des meta est décrit dans la section [Configuration avancée](config.html).
+- L'angle de vue par défaut est de 110. Pour le modifier vous devez renseigner la valeur de la meta "panorama.FieldOfView" : le fonctionnement des meta est décrit dans la section [Configuration avancée](config.md).
 
-[Revenir au différents Types de contenus](content_types.html)
+[Revenir au différents Types de contenus](content_types.md)

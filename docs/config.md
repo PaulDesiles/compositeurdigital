@@ -122,4 +122,4 @@ Chaque paramètre s'écrit sous la forme `<param name="nomDuParamètre" value="v
   - `organization`
   - `finance.budget`
 
-[Revenir au menu](home.html)
+[Revenir au menu](home.md)

@@ -18,4 +18,4 @@ Un même format de fichier peut contenir différents format d'encodage vidéo/au
 
 Les formats les plus stables sont : WMV et MP4(H264).
 
-[Revenir au différents Types de contenus](content_types.html)
+[Revenir au différents Types de contenus](content_types.md)

@@ -43,4 +43,4 @@ Lorsque vous modifiez le fichier `_questionss.csv` et si les questions ont chang
 Une nouvelle ligne de résultat est enregistrée à chaque fois que l'on appuie sur le bouton `Enregistrer`.
 
 <br />
-[Revenir au différents Types de contenus](content_types.html)
+[Revenir au différents Types de contenus](content_types.md)

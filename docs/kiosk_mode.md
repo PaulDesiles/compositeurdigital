@@ -71,4 +71,4 @@ Pour définir une vidéo de veille, ajouter une vidéo nommée `_standby` à la 
 5. L'ordinateur va redémarrer. Après redémarrage, RestartOnCrash sera lancé, qui lancera à son tour le Compositeur Digital, le tout sans barre des tâches, bureau ou écran d'accueil.
 Pour reprendre la main sur le système il sera nécessaire de brancher un clavier de taper la combinaison de de touches `Ctrl-Alt-Suppr` ou `Ctrl-Maj-Echap` pour accéder au gestionnaire de tâches.
 
-[Revenir au menu](home.html)
+[Revenir au menu](home.md)

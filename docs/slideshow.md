@@ -73,5 +73,5 @@ Dans les cas où la zone tactile doit ouvrir une page web à l'intérieur du Com
 ![powerpoint slideshow web](img/link_to_url.jpg)
 
 
-[Revenir au différents Types de contenus](content_types.html)
+[Revenir au différents Types de contenus](content_types.md)
 
